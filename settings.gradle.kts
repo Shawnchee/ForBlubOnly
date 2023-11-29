@@ -14,5 +14,7 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "MAD_FORUM"
+
+
 include(":app")
  
