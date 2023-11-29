@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".MostRecent">
+
+    <include layout="@layout/header"/>
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <View
+        android:id="@+id/page"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/roundedpage"
+        android:translationY="145dp">
+
+    </View>
+
+    <androidx.appcompat.widget.SearchView
+        android:layout_width="250dp"
+        android:layout_height="35dp"
+        android:background="@drawable/boxshadow"
+        android:translationY="170dp"
+        android:translationX="20dp"
+        app:iconifiedByDefault="false"
+        app:queryHint="Search"
+        />
+
+    <Button
+        android:text="Create Post"
+        android:textSize="12dp"
+        android:layout_width="wrap_content"
+        android:layout_height="40dp"
+        android:translationX="285dp"
+        android:translationY="166dp"
+        android:backgroundTint= "#4C9A2A"
+        android:shadowColor="#000000"/>
+
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView"
+        android:layout_marginTop="210dp"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:foregroundGravity="center_vertical">
+
+        <!-- child view -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:foregroundGravity="center"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <!-- LinearLayout children -->
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:text="GEEKS"
+                android:textColor="#0F9D58"
+                android:textSize="70sp" />
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="150dp"
+                android:src="@drawable/avatar"/>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:text="FOR"
+                android:textColor="#0F9D58"
+                android:textSize="70sp" />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:padding="15dp"
+                android:text="GEEKS"
+                android:textColor="#0F9D58"
+                android:textSize="70sp" />
+
+        </LinearLayout>
+    </HorizontalScrollView>
+
+
+
+</FrameLayout>
