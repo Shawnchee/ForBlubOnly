@@ -5,7 +5,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/lognreg"
+    android:background="@drawable/back_thing"
     android:padding="40dp"
     android:orientation="vertical"
     tools:context=".RegisterPage">
@@ -59,14 +59,15 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/sign_up"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:textSize="20dp"
+        android:textSize="25dp"
         android:text="SIGN UP"
-        android:background="@drawable/round_btn"
+        android:textColor="@color/white"
+        android:background="@drawable/rounded_button"
         android:layout_marginTop="100dp"/>
 
 
@@ -83,6 +84,7 @@
             android:layout_height="wrap_content"
             android:text="Already have an account?"
             android:textSize="18dp"
+            android:textColor="@color/white"
             android:gravity="center"
             android:textStyle="bold"/>
         <TextView
@@ -91,8 +93,8 @@
             android:layout_height="wrap_content"
             android:text="Sign In"
             android:textStyle="bold"
-            android:textSize="20dp"
-            android:textColor="@color/blue"
+            android:textSize="24dp"
+            android:textColor="@color/main_green"
             android:layout_marginTop="8dp" />
 
     </LinearLayout>

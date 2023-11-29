@@ -59,15 +59,16 @@
 
     </com.google.android.material.textfield.TextInputLayout>
 
-    <Button
+    <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/sign_in"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:textStyle="bold"
-        android:textSize="20dp"
+        android:layout_marginTop="100dp"
+        android:background="@drawable/rounded_button"
         android:text="SIGN IN"
-        android:background="@color/light_green"
-        android:layout_marginTop="100dp"/>
+        android:textColor="#000000"
+        android:textSize="26dp"
+        android:textStyle="bold" />
 
 
 
