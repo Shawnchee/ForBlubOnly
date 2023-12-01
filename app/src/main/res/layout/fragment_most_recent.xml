@@ -12,138 +12,221 @@
     <include layout="@layout/header"/>
 
 
-
-    <View
-        android:id="@+id/page"
+    <RelativeLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:background="@drawable/roundedpage"
-        android:translationY="145dp">
-
-    </View>
-
-    <androidx.appcompat.widget.SearchView
-        android:layout_width="250dp"
-        android:layout_height="35dp"
-        android:background="@drawable/boxshadow"
-        android:translationY="170dp"
-        android:translationX="20dp"
-        app:iconifiedByDefault="false"
-        app:queryHint="Search"
-        />
-
-    <Button
-        android:text="Create Post"
-        android:textSize="12dp"
-        android:layout_width="wrap_content"
-        android:layout_height="40dp"
-        android:translationX="285dp"
-        android:translationY="166dp"
-        android:backgroundTint= "#4C9A2A"
-        android:shadowColor="#000000"/>
-
-
-    <HorizontalScrollView
-        android:id="@+id/horizontalScrollView"
-        android:layout_marginTop="200dp"
-        android:layout_width="match_parent"
-        android:layout_height="100dp"
-        android:foregroundGravity="center_vertical"
-        android:scrollbars="none"
-
-
         >
 
-        <!-- child view -->
-        <LinearLayout
-            android:layout_width="wrap_content"
-            android:layout_height="match_parent"
-            android:foregroundGravity="center"
-            android:gravity="center"
-            android:orientation="horizontal"
-            android:padding="20dp"
+    <include layout="@layout/navigateforum"/>
 
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/navigateforum"
+        >
 
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp"
             >
 
-            <!-- LinearLayout children -->
-
-            <Button
-                android:id="@+id/mostRecent"
-                android:layout_width="160dp"
-                android:layout_height="70dp"
-                android:layout_weight="1"
-                android:padding="5dp"
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recent Post"
+                android:textColor="#000000"
                 android:fontFamily="@font/rubik_bold"
-                android:text="Most Recent"
-                android:textColor="#ffffff"
-                android:textSize="15dp"
-                android:backgroundTint="#286F40"
-                android:layout_marginEnd="10dp"
-
-                />
-            <Button
-                android:id="@+id/mostLiked"
-                android:layout_width="160dp"
-                android:layout_height="70dp"
-                android:layout_weight="1"
-                android:fontFamily="@font/rubik_bold"
-                android:padding="5dp"
-                android:text="Most Liked"
-                android:textColor="#ffffff"
-                android:textSize="15dp"
-                android:backgroundTint="#4C9A2A"
-                android:layout_marginEnd="10dp"
-
+                android:textSize="26dp"
+                android:layout_marginTop="-6dp"
                 />
 
 
-            <Button
-                android:id="@+id/myBookmarks"
-                android:layout_width="160dp"
-                android:layout_height="70dp"
-                android:layout_weight="1"
-                android:fontFamily="@font/rubik_bold"
-                android:padding="5dp"
-                android:text="My Bookmarks"
-                android:textColor="#ffffff"
-                android:textSize="15dp"
-                android:backgroundTint="#76BA1B"
-                android:layout_marginEnd="10dp"
-                />
-
-            <Button
-                android:id="@+id/mostCommented"
-                android:layout_width="160dp"
-                android:layout_height="70dp"
-                android:layout_weight="1"
-                android:padding="5dp"
-                android:fontFamily="@font/rubik_bold"
-                android:text="Most Commented"
-                android:textColor="#ffffff"
-                android:textSize="15dp"
-                android:backgroundTint="#28C20F"
-                android:layout_marginEnd="10dp"
-                />
-
-            <Button
-                android:id="@+id/myPosts"
-                android:layout_width="160dp"
-                android:layout_height="70dp"
-                android:layout_weight="1"
-                android:fontFamily="@font/rubik_bold"
-                android:padding="5dp"
-                android:text="My Posts"
-                android:textColor="#ffffff"
-                android:textSize="15dp"
-                android:backgroundTint="#29D50D"
-                android:layout_marginEnd="10dp"
-                />
+            <!-- First Discussion Post -->
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:background="@drawable/roundedpost"
+                android:elevation="6dp"
+                android:orientation="vertical"
+                android:padding="16dp"
+                android:layout_marginTop="40dp"
+                >
 
 
-        </LinearLayout>
-    </HorizontalScrollView>
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal"
+                    android:paddingBottom="14dp"
+                    >
+
+                <androidx.cardview.widget.CardView
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:background="#4C9A2A"
+                    app:cardCornerRadius="250dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent">
+
+                    <ImageView
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:scaleType="centerCrop"
+                        android:src="@drawable/avatar" />
+                </androidx.cardview.widget.CardView>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="16dp"
+                    android:layout_weight="1"
+                    android:orientation="vertical"
+                    android:layout_gravity="center_vertical">
+
+                    <!-- Name -->
+                    <TextView
+                        android:id="@+id/postName"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rubik_bold"
+                        android:text="Wan Ahmad L."
+                        android:textSize="16dp" />
+
+                    <!-- Time Posted -->
+                    <TextView
+                        android:id="@+id/postTime"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/rubik"
+                        android:text="Posted 2 hours ago"
+                        android:textSize="12dp" />
+                </LinearLayout>
+
+                    <ImageButton
+                        android:background="?android:attr/selectableItemBackground"
+                        android:id="@+id/bookmark"
+                        android:layout_width="30dp"
+                        android:layout_height="30dp"
+                        android:layout_gravity="center"
+                        android:src="@drawable/bookmark"
+                        android:scaleType="centerCrop"
+                        android:layout_marginStart="125dp"
+                        />
 
 
+                </LinearLayout>
+
+                <TextView
+                    android:id="@+id/postTitle"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:fontFamily="@font/rubik_bold"
+                    android:text="Discussion Title 1"
+                    android:textSize="18sp"
+                    android:textStyle="bold" />
+
+                <!-- Description -->
+                <TextView
+                    android:id="@+id/postDescription"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:fontFamily="@font/rubik_bold"
+                    android:text="Discussion Post Description 1"
+                    android:textColor="#8c8c8c"
+                    android:textSize="14sp" />
+
+                <!-- Time Posted, Likes, and Comments -->
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="8dp"
+                    android:orientation="horizontal">
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        >
+
+                    <ImageView
+                            android:layout_gravity="center_vertical"
+                            android:layout_width="10dp"
+                            android:layout_height="10dp"
+                            android:src="@drawable/likeicon"
+                        />
+
+                    <TextView
+                        android:id="@+id/likesCount"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="8dp"
+                        android:layout_weight="1"
+                        android:fontFamily="@font/rubik"
+                        android:gravity="start"
+                        android:text="0"
+                        android:textSize="12dp" />
+
+                        <TextView
+                            android:id="@+id/postLikes"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="5dp"
+                            android:layout_weight="1"
+                            android:fontFamily="@font/rubik"
+                            android:gravity="start"
+                            android:paddingRight="20dp"
+                            android:text="Likes"
+                            android:textSize="12dp" />
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:gravity="center">
+
+                    <ImageView
+                        android:layout_gravity="center_vertical"
+                        android:layout_width="10dp"
+                        android:layout_height="10dp"
+                        android:src="@drawable/chaticon"
+                        />
+
+                        <TextView
+                            android:id="@+id/commentsCount"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:layout_marginStart="8dp"
+                            android:layout_weight="1"
+                            android:fontFamily="@font/rubik"
+                            android:gravity="start"
+                            android:text="0"
+                            android:textSize="12dp" />
+
+                    <TextView
+                        android:id="@+id/postComments"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_weight="1"
+                        android:layout_marginStart="5dp"
+                        android:fontFamily="@font/rubik"
+                        android:gravity="start"
+                        android:text="Comments"
+                        android:textSize="12dp" />
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+
+        <!-- Add more discussion posts as needed -->
+
+    </RelativeLayout>
+</ScrollView>
+    </RelativeLayout>
 
 </FrameLayout>
