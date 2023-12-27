@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_rounded_button.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\rounded_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_create_post.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\create_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_roundedpost.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\roundedpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_home_page.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_home_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_boxshadow.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\boxshadow.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_rubik_light.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\rubik_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_roundedpage.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\roundedpage.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_comfortaa.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\comfortaa.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_bookmarkpressed.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\bookmarkpressed.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_rectangle.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\rectangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_register_page.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_register_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_likeicon.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\likeicon.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_buttonbackground.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\buttonbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_login_page.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_login_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_green_border_for_form.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\green_border_for_form.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_likedicon.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\likedicon.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_comment_item.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\comment_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_back_thing.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\back_thing.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_menu_background.jpg.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\menu_background.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_acme.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\acme.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_chaticon.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\chaticon.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_btn.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\btn.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_createposticon.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\createposticon.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_bookmark.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\bookmark.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_bookmark_selector.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\bookmark_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_inputfield.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\inputfield.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_most_recent.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_most_recent.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_open_sans_extrabold.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\open_sans_extrabold.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_comfortaa_bold.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\comfortaa_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\app_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_comments.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_comments.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_navigateforum.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\navigateforum.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_lognreg.jpg.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\lognreg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_post.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_post.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_green_border.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\green_border.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_rubik.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\rubik.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_housepicture.jpg.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\housepicture.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_rubik_medium.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\rubik_medium.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_post_item.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\post_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_avatar.jpg.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\avatar.jpg"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.mad_forum.app-merged_res-51:/layout_navigateforum.xml.flat",
+        "source": "com.example.mad_forum.app-main-53:/layout/navigateforum.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_open_sans.ttf.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\open_sans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_activity_log_in.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\activity_log_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_chevron_left.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\chevron_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\drawable_createpost.png.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\drawable\\createpost.png"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\font_rubik_bold.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\font\\rubik_bold.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\layout_header.xml.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\layout\\header.xml"
+    },
+    {
+        "merged": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-merged_res-51:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\aykay\\.gradle\\daemon\\8.0\\com.example.mad_forum.app-main-53:\\mipmap-hdpi\\ic_launcher.webp"
+    }
+]
